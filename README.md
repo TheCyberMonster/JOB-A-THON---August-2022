@@ -1,5 +1,13 @@
 # JOB-A-THON - August 2022
 
+![image](https://user-images.githubusercontent.com/40531762/183566986-051954cb-930b-49c7-8fdc-0479e5581ac4.png)
+
+ 
+ Hi Folks .
+
+Extremely Delighted and happy to share I have got 23rd Place on the leaderboard of JOBATHON - AUG22 by Analytics Vidhya ( out of 8235 registration) which took place in Augest 2022. This Code lead me to this postion of 23. Hope this code help to to understand more. 
+
+# Jobathon 
 
 Analytics Vidhya presents “JOB-A-THON” - India's Largest Data Science Hiring Event 10th Edition, where 60,000+ candidates have participated for job roles in over 100+ companies.
 
